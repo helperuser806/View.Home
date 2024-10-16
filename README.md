@@ -1,8 +1,9 @@
-## View.Home
+# View.Home
 
 - Pagina web para la gestion y visualizacion de propiedades en arriendo
 
 ## Tabla de Contenidos
+
 [TOC]
 #Proposito del proyecto
 - El proyecto view.home consiste en desarrollar una página web para la gestión y visualización de propiedades en arriendo. Su objetivo es facilitar la interacción entre propietarios y arrendatarios, proporcionando una plataforma digital eficiente para la búsqueda, consulta, y administración de propiedades arrendadas.
@@ -116,3 +117,5 @@
 - El sistema debe contar con soporte técnico disponible para resolver posibles problemas y mantener la plataforma en funcionamiento.
 
 #Historias de usuario
+
+
