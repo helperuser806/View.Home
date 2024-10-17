@@ -106,8 +106,10 @@ La plataforma está diseñada para ser una solución competitiva en el sector in
 5. **Como propietario**, quiero recibir notificaciones cuando un arrendatario se interese en una propiedad, para poder responder rápidamente y maximizar mis oportunidades de arrendar la propiedad.
 
 ## Diagrama de Procesos
+
 ![Diagrama de Procesos](images/image 1.png)
 
 ## Diagrama de Experiencias de Usuario
+
 ![Diagrama de Experiencias de Usuario](images/imagen 2.PNG)
 
