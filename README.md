@@ -8,6 +8,8 @@
 [TOC]
 
 #Proposito del proyecto
+
+Proposito del proyecto (Underline)
 - El proyecto view.home consiste en desarrollar una página web para la gestión y visualización de propiedades en arriendo. Su objetivo es facilitar la interacción entre propietarios y arrendatarios, proporcionando una plataforma digital eficiente para la búsqueda, consulta, y administración de propiedades arrendadas.
 
 - **Objetivos generales:**
