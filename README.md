@@ -11,6 +11,8 @@
   - [Funcionales](#funcionales)
   - [No funcionales](#no-funcionales)
 - [Historias de Usuario](#historias-de-usuario)
+- [Diagrama de Procesos](#diagrama-de-procesos)
+- [Diagrama de Experiencias de Usuario](#diagrama-de-experiencias-de-usuario)
 
 ## Propósito del Proyecto
 
