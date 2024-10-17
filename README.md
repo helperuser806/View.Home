@@ -107,9 +107,8 @@ La plataforma está diseñada para ser una solución competitiva en el sector in
 
 ## Diagrama de Procesos
 
-![Diagrama de Procesos](images/image 1.png)
+![Diagrama de Procesos](images/diagrama_procesos.png)
 
 ## Diagrama de Experiencias de Usuario
 
-![Diagrama de Experiencias de Usuario](images/imagen 2.PNG)
-
+![Diagrama de Experiencias de Usuario](images/diagrama_experiencias.png)
