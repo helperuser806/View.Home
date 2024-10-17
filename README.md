@@ -90,7 +90,16 @@ La plataforma está diseñada para ser una solución competitiva en el sector in
 
 5. **Disponibilidad:**
    - Tiempo de actividad del 99.9%, con respaldo y soporte técnico.
-
+     
 ## Historias de Usuario
 
-*(Aquí puedes agregar las historias de usuario que consideres necesarias).*
+1. **Como propietario**, quiero poder registrarme y acceder a la plataforma fácilmente, para poder gestionar mis propiedades y publicarlas en el sistema de arriendo.
+
+2. **Como arrendatario**, quiero tener la opción de registrarme o iniciar sesión, para poder guardar mis propiedades favoritas y contactar a los propietarios.
+
+3. **Como propietario**, quiero poder agregar y eliminar propiedades de manera rápida y sencilla, para que las propiedades disponibles estén siempre actualizadas y reflejen mi oferta actual.
+
+4. **Como arrendatario**, quiero poder filtrar las propiedades por precio, ubicación y características, para encontrar propiedades que se ajusten a mis necesidades y presupuesto.
+
+5. **Como propietario**, quiero recibir notificaciones cuando un arrendatario se interese en una propiedad, para poder responder rápidamente y maximizar mis oportunidades de arrendar la propiedad.
+
